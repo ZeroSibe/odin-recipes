@@ -1,0 +1,48 @@
+.front.image{
+    height: auto;
+    width: 1000px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+.front.title{
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+.odd.page{
+    background-color: lightblue;
+}
+
+.american{
+    height:500px;
+    width:600px;
+    
+}
+
+.even.page{
+    background-color: beige;
+}
+
+.even.page h1, h2, p, ol, ul{
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+
+}
+.japan.page{
+    background-color: blanchedalmond;
+}
+
+.jtitle, .etitle{
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    
+}
+
+.english.page{
+    background-color: bisque;
+}
